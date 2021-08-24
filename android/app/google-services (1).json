@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042786263328",
+    "project_id": "pixiv-68e25",
+    "storage_bucket": "pixiv-68e25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042786263328:android:18e1a9c2d853d67c2d3745",
+        "android_client_info": {
+          "package_name": "com.my.pixiv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042786263328-skh9qkplpkhcg89plctor4fi1v0r450p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCzB8CSB7hL7wiubOueinbojnUsOcv68E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042786263328-skh9qkplpkhcg89plctor4fi1v0r450p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
